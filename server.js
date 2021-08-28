@@ -16,6 +16,7 @@ const TOKEN = process.env.TOKEN;
 
 var MPPClient = require('./Client.js');
 var client = new MPPClient("wss://mppclone.com:8443", TOKEN);
+console.log(TOKEN)
 
 var math = require('mathjs');
 var fs = require('fs');
