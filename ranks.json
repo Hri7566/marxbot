@@ -1,0 +1,21 @@
+{
+    "kings": [
+        "0236f354fc5685c5bd18f152",
+        "ead940199c7d9717e5149919",
+        "3fb6d7cd2c8aa3b1d9841a06",
+        "f46132453478f0a8679e1584",
+        "2323a9e8b5d2d4536d4e558e"
+    ],
+    "nobles": [
+        "7d906f57289f6a60b78f786a",
+        "134cb5cbde1a8ca5e2a24442",
+        "ff63f2c918ef9cff72b057ad"
+    ],
+    "knights": [
+        "cc8bdf7cff7e362110495a6c",
+        "ca2255a7e1d0901ff83b583a",
+        "406d277953f1d0b8b4bd8fd9",
+        "78cf7b91bfe59137b8b45851"
+    ],
+    "blacklist": []
+}
