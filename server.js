@@ -204,8 +204,8 @@ client.on('a', msg => {
     } else if (cmd == '/goto') {
         if (isKing || isNoble) {
             if (!args[1]) return sendChat("Go where?");
-            sendChat('Going to the room "' + msg.argcat + '".');
-            client.setChannel(msg.argcat);
+            sendChat('Going to the room "' + argcat + '".');
+            client.setChannel(argcat);
         } else {
             if (enabled) {
                 sendChat('You can\'t use this command. Type /rank for more information.');
